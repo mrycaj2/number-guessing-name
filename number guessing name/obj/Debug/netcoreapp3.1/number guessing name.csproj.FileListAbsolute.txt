@@ -1,0 +1,14 @@
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.csproj.AssemblyReference.cache
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.AssemblyInfoInputs.cache
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.AssemblyInfo.cs
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.csproj.CoreCompileInputs.cache
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\bin\Debug\netcoreapp3.1\number guessing name.exe
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\bin\Debug\netcoreapp3.1\number guessing name.deps.json
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\bin\Debug\netcoreapp3.1\number guessing name.runtimeconfig.json
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\bin\Debug\netcoreapp3.1\number guessing name.runtimeconfig.dev.json
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\bin\Debug\netcoreapp3.1\number guessing name.dll
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\bin\Debug\netcoreapp3.1\number guessing name.pdb
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.dll
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.pdb
+C:\Users\kecaa\source\repos\number guessing name\number guessing name\obj\Debug\netcoreapp3.1\number guessing name.genruntimeconfig.cache
